@@ -2,6 +2,9 @@
 [.]venv
 env/
 
+# specific files
+*.zip
+
 # Python runtime
 # Byte-compiled / optimized / DLL files
 __pycache__/
